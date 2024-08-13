@@ -140,11 +140,11 @@ CCTV风云音乐,http://121.19.134.82:808/tsfile/live/1036_1.m3u8?key=txiptv&pla
 大连新闻综合,http://59.44.102.18:8888/newlive/live/hls/52/live.m3u8
 CETV1,http://59.44.102.18:8888/newlive/live/hls/53/live.m3u8
 大连节目展播,http://59.44.102.18:8888/newlive/live/hls/54/live.m3u8
-动漫秀场,http://59.44.102.18:8888/newlive/live/hls/55/live.m3u8
-CHC动作电影,http://59.44.102.18:8888/newlive/live/hls/56/live.m3u8
-CHC影迷电影,http://59.44.102.18:8888/newlive/live/hls/57/live.m3u8
-CHC家庭影院,http://59.44.102.18:8888/newlive/live/hls/58/live.m3u8
-都市剧场,http://59.44.102.18:8888/newlive/live/hls/59/live.m3u8
+
+动漫秀场,http://59.44.102.18:8888/newlive/live/hls/56/live.m3u8
+CHC动作电影,http://59.44.102.18:8888/newlive/live/hls/57/live.m3u8
+CHC影迷电影,http://59.44.102.18:8888/newlive/live/hls/58/live.m3u8
+CHC家庭影院,http://59.44.102.18:8888/newlive/live/hls/59/live.m3u8
 都市剧场,http://59.44.102.18:8888/newlive/live/hls/60/live.m3u8
 
 CCTV1,http://124.128.73.58:9901/tsfile/live/0001_1.m3u8
